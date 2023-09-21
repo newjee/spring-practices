@@ -5,13 +5,20 @@
 	<groupId>com.poscodx</groupId>
 	<artifactId>spring-practices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
 	<packaging>pom</packaging>
-	
-	
+
+
 	<modules>
 		<module>hellospring</module>
 		<module>emaillist03</module>
 		<module>guestbook03</module>
+		<module>aopTest</module>
+        <module>logex</module>
+        <module>fileupload</module>
 
-	</modules>
+    </modules>
 </project>

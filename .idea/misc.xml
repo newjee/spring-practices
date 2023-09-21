@@ -3,13 +3,16 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/emaillist03" />
+    <file type="web" url="file://$PROJECT_DIR$/fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/guestbook03" />
     <file type="web" url="file://$PROJECT_DIR$/hellospring" />
+    <file type="web" url="file://$PROJECT_DIR$/logex" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/logex/pom.xml" />
       </list>
     </option>
   </component>
